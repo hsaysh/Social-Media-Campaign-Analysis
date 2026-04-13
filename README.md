@@ -1,4 +1,4 @@
-# FUTURE_DS_02_Dashboard
+# Social-Media-Campaign-Analysis
 **Social Media Campaign Performance Tracker in Power BI**  
 *Future Interns – Data Science & Analytics Internship (Task 2)*
 
