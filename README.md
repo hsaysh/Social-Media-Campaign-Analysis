@@ -1,69 +1,76 @@
-# Social-Media-Campaign-Analysis
-**Social Media Campaign Performance Tracker in Power BI**  
-*Future Interns – Data Science & Analytics Internship (Task 2)*
+# 📊 Social Media Campaign Performance Dashboard
+
+## 🚀 Project Overview
+
+This project focuses on analyzing social media campaign performance using data analytics techniques. The data was cleaned and transformed using Python, and an interactive dashboard was built in Power BI to generate meaningful insights.
 
 ---
 
-##  Project Overview
-This project is part of my **Future Interns Data Science & Analytics Internship (Task 2)**.  
-The goal was to design a **Social Media Campaign Performance Tracker** in Power BI that gives insights into impressions, clicks, conversions, spending, and campaign effectiveness.
+## 🛠️ Tools & Technologies
 
-The dashboard highlights **key performance indicators (KPIs)** and provides a breakdown by gender, age, interests, and ad ID.  
-I used a **professional modern theme** with consistent colors and intuitive layouts to ensure data storytelling is clear and impactful.
-
----
-
-##  Dataset
-The dataset provided by **Future Interns** contains:
-- Ad & campaign IDs
-- Impressions, clicks, spending
-- Approved conversions
-- Gender & age group
-- Multiple interest categories
-
- **Download Dataset:** [Click Here](data.csv)
+* Python (Pandas, NumPy)
+* Power BI
+* Excel
+* GitHub
 
 ---
 
-##  Key Features
-- **KPI Cards:** Total Impressions, Approved Conversions, Clicks, Total Spend
-- **Demographic Analysis:** Gender & Age-wise performance
-- **Interest Analysis:** Approved conversions by interest category
-- **Performance Trends:** Over time metrics for clicks and conversions
-- **Ad-Level Insights:** Top-performing ads based on conversions
-- **Modern UI:** Dark background with smooth alignment and visual consistency
+## ⚙️ Data Engineering & Processing
+
+* Cleaned raw dataset using Python
+* Removed inconsistencies and handled missing values
+* Converted and formatted data types
+* Created key performance metrics:
+
+  * CTR (Click Through Rate)
+  * CPC (Cost Per Click)
+  * Conversion Rate
 
 ---
 
-##  Tools Used
-- **Power BI**
-- **Google Looker Studio**
-- **Excel / Google Sheets**
-- **Canva** *(for design elements)*
+## 📈 Dashboard Features
+
+* KPI Cards:
+
+  * Total Impressions
+  * Total Clicks
+  * Total Conversions
+  * Total Spend
+
+* Interactive Visuals:
+
+  * Conversion analysis by Age & Gender
+  * Campaign performance trends
+  * Interest-based conversion insights (Top N filtering applied)
+  * Ads distribution based on conversions
+
+* Filters (Slicers):
+
+  * Campaign ID
+  * Gender
+  * Conversion performance
 
 ---
 
-##  Dashboard Preview
-![Dashboard Screenshot](screenshot1.png)
+## 📸 Dashboard Preview
+
+![Dashboard](dashboard.png)
 
 ---
 
-##  Learnings & Takeaways
-Through this task, I improved my skills in:
-- Marketing analytics & campaign optimization
-- Designing dashboards for storytelling & decision-making
-- Advanced use of filters, slicers, and custom visuals in Power BI
-- Structuring insights for both quick KPIs and deep-dive analysis
+## 💡 Key Insights
 
-This project reinforced the importance of **clear data visualization** for marketing performance tracking.
+* Identified top-performing interest segments using Top N filtering
+* Analyzed gender and age group performance
+* Compared campaign efficiency using CTR and Conversion Rate
+* Evaluated cost efficiency using CPC and total spend
 
 ---
 
-##  Author
-**Yash Sharma**  
-🔗 [LinkedIn](https://www.linkedin.com/in/yash-sharma-5527ab398)  
-🔗 [GitHub](https://github.com/hsaysh)  
+## 👤 Author
 
----
- *If you found this project interesting, don't forget to star this repo!*
+**Yash Sharma**
+
+🔗 [LinkedIn](https://www.linkedin.com/in/yash-sharma-5527ab398)
+🔗 [GitHub](https://github.com/hsaysh)
 
