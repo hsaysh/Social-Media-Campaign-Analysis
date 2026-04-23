@@ -74,3 +74,8 @@ This project focuses on analyzing social media campaign performance using data a
 🔗 [LinkedIn](https://www.linkedin.com/in/yash-sharma-5527ab398)
 🔗 [GitHub](https://github.com/hsaysh)
 
+## ⭐ Support
+
+If you found this project useful, please give it a ⭐ on GitHub!
+
+
